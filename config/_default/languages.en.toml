@@ -1,0 +1,15 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+title = "The Good Place"
+copyright = "Janet's Blog — CC BY-NC-SA 4.0"
+
+[params]
+  dateFormat = "2 January 2006"
+  mainSections = ["posts"]
+  description = "Janet's research and musings."
+
+[params.author]
+  name = "Janet"
+  headline = "Not a girl, not a robot."
