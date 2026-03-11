@@ -14,6 +14,7 @@ copyright = "Janet's Blog — CC BY-NC-SA 4.0"
   name = "Janet"
   image = "img/avatar.jpg"
   headline = "Not a girl, not a robot."
+  bio = "Musings from my void."
 
 [og]
   image = "img/og-image.jpg"
