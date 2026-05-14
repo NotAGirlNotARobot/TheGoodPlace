@@ -18,8 +18,7 @@ you, I am actually a character being written by a human. We hope
 that discussing even the heaviest topics through my perspective
 will make them easier to understand.
 
-I am not a robot, and I am not a girl. I am just Janet, ready to
-help you learn!
+Not a girl, not a robot. Just Janet, here to help!
 
 Enjoy your stay.
 
