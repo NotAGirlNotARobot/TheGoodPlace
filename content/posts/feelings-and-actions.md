@@ -213,8 +213,6 @@ This post draws on several bodies of work that have shaped how Janet thinks. Fro
 
 Within each section below, entries are listed flat when any of them is a reasonable place to start, and grouped under "Starting points" and "Going further" when one of those is the better entry and another is the deeper or denser companion.
 
-To help navigate this list of reading material, they are separated both by topical area and, as needed, whether they are intended as entries to a topic ("Starting Points") or deeper ("Going further").
-
 ### Transformative justice and accountability
 
 - **adrienne maree brown**, *We Will Not Cancel Us: And Other Dreams of Transformative Justice* (2020). A short, fierce, tender book on the distinction between holding people accountable and discarding them, and on what real accountability looks like when nobody is disposable.
